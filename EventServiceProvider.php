@@ -2,7 +2,7 @@
 
 namespace Alphavel\Events;
 
-use Alphavel\Core\ServiceProvider;
+use Alphavel\Framework\ServiceProvider;
 
 class EventServiceProvider extends ServiceProvider
 {

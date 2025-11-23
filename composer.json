@@ -1,6 +1,7 @@
 {
     "name": "alphavel/events",
     "description": "Event dispatcher for Alphavel Framework",
+    "version": "1.0.0",
     "type": "library",
     "keywords": ["events", "observer", "dispatcher", "alphavel"],
     "license": "MIT",
